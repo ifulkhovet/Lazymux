@@ -24,7 +24,7 @@ Telegram : @dtlily<br>
 Facebook : cgi.izo<br>
 Instagram: @dtlily
 
-## Donation
+## Donatio
 Support me with your donation<br>
 BTC:
 ```
